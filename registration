@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<BODY bgcolor="pink">
+    <h1 style="text-align:center;">REGISTRATION FORM</h1>
+<FORm>
+    <br><label>FIRST NAME</label>
+    <input type="TEXT" NAME ="FIRSTNAME" size="15"/><BR><br>
+    <label>LAST NAME</label>
+    <input type="TEXT" NAME ="LASTNAME" size="15"/><BR><BR>
+     
+    <label>&nbsp;&nbsp;EMAIL ID</label>
+    <input type="TEXT" NAME ="EMAILID"placeholder="&nbsp;&nbsp;enter your id" size="15"/><BR><br>
+    <label>USER NAME</label>
+    <input type="TEXT" NAME ="USER NAME" size="15"/><BR><BR>
+    <label>RESISTER NO</label>
+    <input type="TEXT" NAME ="REGSISTER NO" size="15"/><BR><br>
+    <label>PHONE NO</label>
+    <input type="TEXT" NAME ="PHONE NO" size="15"/><BR><BR>
+        <button style="background-color:rgb(0,230,245); border-color:rgb(0,234,34); color:white">register
+            </button>
+</FORm>
+</BODY>
